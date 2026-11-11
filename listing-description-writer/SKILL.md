@@ -82,4 +82,4 @@ Platform limits change. If the user mentions a limit, follow theirs.
 
 ---
 
-*Free skill by [High Season](https://highseasonhq.com/?utm_source=github&utm_medium=referral&utm_campaign=str-skills): AI-powered marketing for short-term rental property managers. More skills: github.com/highseasonhq/str-skills*
+*Free skill by [High Season](https://highseasonhq.com/?utm_source=github&utm_medium=referral&utm_campaign=str-skills). Done-for-you direct booking marketing for property managers in Australia and New Zealand. More free skills at github.com/highseasonhq/str-skills*

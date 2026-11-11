@@ -10,7 +10,7 @@ Built and maintained by [High Season](https://highseasonhq.com/?utm_source=githu
 
 | Skill | What it does |
 |---|---|
-| [Guest review responder](./guest-review-responder) | Paste a guest review and get a public reply that's warm, specific and on-brand. It handles complaints calmly and never admits liability. |
+| [Guest review responder](./guest-review-responder) | Paste a guest review and get a public reply that's warm, specific and on-brand. It handles complaints calmly, never admits liability, and spots problems that keep coming up across reviews. |
 | [Listing description writer](./listing-description-writer) | Paste your current listing and a few notes and get a rewritten title and description for Airbnb, Booking.com and your direct booking site. |
 
 More skills are on the way. Star or watch this repo to hear when they land.
@@ -28,4 +28,16 @@ Copy the skill's folder into `~/.claude/skills/` (for all your projects) or `.cl
 **In other AI tools**
 Each `SKILL.md` is plain English. You can paste its contents into ChatGPT, Gemini or any assistant as instructions.
 
-##
+## Make them yours
+
+Every skill has a **"Your business"** section near the top. Fill in your company name, tone of voice and sign-off before you upload it, and the output will sound like you.
+
+## Want this done for you?
+
+High Season is done-for-you direct booking marketing for property managers in Australia and New Zealand. Fill the calendar. Keep the commission.
+
+**[highseasonhq.com](https://highseasonhq.com/?utm_source=github&utm_medium=referral&utm_campaign=str-skills)**
+
+## Licence
+
+MIT. Use, change and share these freely.

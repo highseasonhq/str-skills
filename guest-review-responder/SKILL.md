@@ -27,4 +27,4 @@ You need the review text. Helpful but optional:
 - Guest's first name
 - Property name
 - Platform (Airbnb, Booking.com, Stayz, Google)
-- The
+- The manager's side of the story, if the review

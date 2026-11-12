@@ -12,21 +12,23 @@ Built and maintained by [High Season](https://highseasonhq.com/?utm_source=githu
 |---|---|
 | [Guest review responder](./guest-review-responder) | Paste a guest review and get a public reply that's warm, specific and on-brand. It handles complaints calmly, never admits liability, and spots problems that keep coming up across reviews. |
 | [Listing description writer](./listing-description-writer) | Paste your current listing and a few notes and get a rewritten title and description for Airbnb, Booking.com and your direct booking site. |
+| [Owner monthly update](./owner-monthly-update) | Paste a month of figures from your PMS and get a clear, honest update email for the owner, with the maths checked and the owners who need a call flagged. |
 
 More skills are on the way. Star or watch this repo to hear when they land.
 
 ## How to install a skill
 
-**In Claude (claude.ai or the desktop app)**
-1. Download the skill's folder from this repo. On the repo page, click **Code → Download ZIP**, then unzip it.
-2. In Claude, go to **Settings → Capabilities → Skills** and upload the skill's folder, zipped on its own.
-3. Use it. For example, paste in a guest review and Claude will pick up the skill automatically.
+First, click **Code → Download ZIP** on this page and unzip it. Each skill folder holds a `SKILL.md` file.
 
-**In Claude Code**
-Copy the skill's folder into `~/.claude/skills/` (for all your projects) or `.claude/skills/` (for one project).
+**In Claude**, go to **Customize → Skills → Add → Upload skill** and drop in the `SKILL.md` files. Skills need **Create and edit files** switched on in **Settings → Capabilities**.
 
-**In other AI tools**
-Each `SKILL.md` is plain English. You can paste its contents into ChatGPT, Gemini or any assistant as instructions.
+**In Gemini**, go to **Customise → Skills → Create → Upload** and choose a `SKILL.md` file.
+
+**In ChatGPT** on Business, Enterprise or Edu, go to **Plugins → Skills → Create → Upload from your computer**. On Free or Plus, create a Project and paste the `SKILL.md` text into its instructions.
+
+**In Claude Code**, copy the skill's folder into `~/.claude/skills/` (for all your projects) or `.claude/skills/` (for one project).
+
+Need more help? Read the step by step guide with screenshots at [highseasonhq.com/resources/ai-skills-guide](https://highseasonhq.com/resources/ai-skills-guide/?utm_source=github&utm_medium=referral&utm_campaign=str-skills).
 
 ## Make them yours
 
